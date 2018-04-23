@@ -100,5 +100,6 @@ ENV/
 # mypy
 .mypy_cache/
 
-## Dataset folders
+## Dataset and models folders
 /data/
+/models/
