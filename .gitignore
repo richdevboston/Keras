@@ -103,3 +103,4 @@ ENV/
 ## Dataset and models folders
 /data/
 /models/
+keras-retinanet
